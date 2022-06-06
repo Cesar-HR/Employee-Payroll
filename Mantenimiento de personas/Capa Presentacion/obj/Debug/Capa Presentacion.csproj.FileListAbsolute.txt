@@ -1,0 +1,18 @@
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.AssemblyReference.cache
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa_Presentacion.FrmAlerta.resources
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa_Presentacion.FrmMain.resources
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa_Presentacion.FrmNotificacion.resources
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa_Presentacion.FrmPlanilla.resources
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa_Presentacion.FrmRegistro.resources
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CopyComplete
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa Presentacion.pdb
+D:\Github\Crud-Personas\Mantenimiento de personas\Capa Presentacion\obj\Debug\Capa_Presentacion.FrmEditar.resources
